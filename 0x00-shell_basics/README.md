@@ -5,3 +5,4 @@ Script 3: Display current directory contents in a long format
 Script 4: Display current directory contents, including hidden files (starting with .). Use the long format.
 Script 5: Display current directory contents.
 Script 6: creates a directory named my_first_directory in the /tmp/ directory.
+Script 7: Move the file betty from /tmp/ to /tmp/my_first_directory
