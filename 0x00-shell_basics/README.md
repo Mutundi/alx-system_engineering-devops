@@ -13,3 +13,4 @@ Script 11: a script that lists all files
  Script 12: prints the type of the file named iamafile
 Script 13: creates a symbolic link to /bin/ls, named __ls__
 Script 14: copies all the HTML files from the current working directory to the parent of the working directory
+Script 15: moves all files beginning with an uppercase letter to the directory /tmp/u
