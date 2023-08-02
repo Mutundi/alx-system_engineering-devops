@@ -11,3 +11,4 @@ Script 9: Delete the directory my_first_directory that is in the /tmp directory.
 Script 10: changes the working directory to the previous one
 Script 11: a script that lists all files
  Script 12: prints the type of the file named iamafile
+Script 13: creates a symbolic link to /bin/ls, named __ls__
