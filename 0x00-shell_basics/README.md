@@ -6,3 +6,4 @@ Script 4: Display current directory contents, including hidden files (starting w
 Script 5: Display current directory contents.
 Script 6: creates a directory named my_first_directory in the /tmp/ directory.
 Script 7: Move the file betty from /tmp/ to /tmp/my_first_directory
+Script 8: Delete the file betty
