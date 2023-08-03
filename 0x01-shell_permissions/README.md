@@ -8,3 +8,4 @@ Script 6: adds execute permission to the owner and the group owner, and read per
 Script 7: adds execution permission to the owner, the group owner and the other users, to the file hello
 Script 8: sets the permission to the file hello as follows:
 Script 9: sets the mode of the file hello to this
+sets the mode of the file hello the same as olleh’s mode
